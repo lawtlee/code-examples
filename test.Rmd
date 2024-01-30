@@ -1,3 +1,0 @@
-```{python, eval=TRUE}
-print("Hello World!")
-```
